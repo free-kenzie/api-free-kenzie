@@ -1,47 +1,23 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "id": 1,
-      "type": "developer"
-    },
-    {
-      "email": "testeDev@mail.com",
-      "password": "$2a$10$iGKng3cKVumFpbcJwC32hOzxQR3UQeFGgfYYe20MNBiG3Z4ryDXaa",
-      "name": "testeDev",
-      "type": "developer",
-      "image": null,
-      "id": 2,
-      "techs": [
-        {
-          "id": 1,
-          "title": "Python",
-          "level": "Iniciante"
-        },
-        {
-          "id": 2,
-          "title": "Git",
-          "level": "Avançado"
-        }
-      ]
-    },
-    {
       "email": "testeEmpresa@mail.com",
       "password": "$2a$10$uwduHi8MOIEuuuFmDki.pe9unfaC3w8FfFDh3tCWygMLmNG3j1y2K",
       "name": "testeEmpresa",
       "type": "company",
-      "image": null,
-      "id": 3
+      "avatar": "",
+      "contact": "",
+      "description": "",
+      "id": 1
     },
     {
       "email": "gabriel@mail.com",
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Gabriel",
       "type": "developer",
-      "avatar": null,
+      "avatar": "",
       "description": "",
+      "contact": "",
       "techs": [
         {
           "id": 1,
@@ -54,16 +30,44 @@
           "level": "Intermediário"
         }
       ],
-      "id": 4
+      "id": 2
     }
   ],
   "jobs": [
     {
-      "jobName": "Desenvolvedor Front End",
+      "jobName": "Desenvolvedor Front End - JavaScript",
       "jobOwnerID": 3,
-      "description": "",
+      "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
       "devs": [],
       "id": 1
+    },
+    {
+      "jobName": "Desenvolvedor Front End - React",
+      "jobOwnerID": 3,
+      "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
+      "devs": [],
+      "id": 2
+    },
+    {
+      "jobName": "Desenvolvedor Front End - JavaScript",
+      "jobOwnerID": 3,
+      "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
+      "devs": [],
+      "id": 3
+    },
+    {
+      "jobName": "Desenvolvedor Front End - JavaScript",
+      "jobOwnerID": 3,
+      "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
+      "devs": [],
+      "id": 4
+    },
+    {
+      "jobName": "Desenvolvedor Front End - React ",
+      "jobOwnerID": 3,
+      "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
+      "devs": [],
+      "id": 5
     }
   ],
   "free": [
@@ -72,8 +76,75 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Gabriel",
       "type": "developer",
-      "avatar": null,
+      "avatar": "",
       "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "caio@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Caio",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "email": "hericles@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Hericles",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "email": "joao@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Joao",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
       "techs": [
         {
           "id": 1,
@@ -87,6 +158,72 @@
         }
       ],
       "id": 4
+    },
+    {
+      "email": "arthur@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Arthur",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "email": "antonio@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Antonio",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "email": "gerson@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Gerson",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 3
     }
   ]
 }
