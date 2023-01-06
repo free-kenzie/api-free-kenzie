@@ -36,35 +36,35 @@
   "jobs": [
     {
       "jobName": "Desenvolvedor Front End - JavaScript",
-      "jobOwnerID": 3,
+      "jobOwnerID": 1,
       "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
       "devs": [],
       "id": 1
     },
     {
       "jobName": "Desenvolvedor Front End - React",
-      "jobOwnerID": 3,
+      "jobOwnerID": 1,
       "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
       "devs": [],
       "id": 2
     },
     {
       "jobName": "Desenvolvedor Front End - JavaScript",
-      "jobOwnerID": 3,
+      "jobOwnerID": 1,
       "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
       "devs": [],
       "id": 3
     },
     {
       "jobName": "Desenvolvedor Front End - JavaScript",
-      "jobOwnerID": 3,
+      "jobOwnerID": 1,
       "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
       "devs": [],
       "id": 4
     },
     {
       "jobName": "Desenvolvedor Front End - React ",
-      "jobOwnerID": 3,
+      "jobOwnerID": 1,
       "description": "Necessário desenvolvedor para ajudar na criação do projeto xxx",
       "devs": [],
       "id": 5
