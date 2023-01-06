@@ -65,5 +65,28 @@
       "devs": [],
       "id": 1
     }
+  ],
+  "free": [
+    {
+      "email": "gabriel@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Gabriel",
+      "type": "developer",
+      "avatar": null,
+      "description": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 4
+    }
   ]
 }
