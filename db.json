@@ -31,6 +31,178 @@
         }
       ],
       "id": 2
+    },
+    {
+      "email": "antonio@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Antonio Barros Campos",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "email": "carlos@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Carlos Alves Silva",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "email": "paulo@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Paulo Barros Marques",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "email": "lucas@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Lucas Reis Santos",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "email": "joao@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Joao Alves Martins",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "email": "antonio@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Pedro Barros Silva",
+      "type": "developer",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "techs": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Git",
+          "level": "Intermediário"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "email": "labsTeixeira@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Laboratorios Teixeira",
+      "type": "company",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "id": 9
+    },
+    {
+      "email": "contUniao@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Contabilidade Uniao",
+      "type": "company",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "id": 10
+    },
+    {
+      "email": "lux-contabilidade@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "Contabilidade Lux",
+      "type": "company",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "id": 11
+    },
+    {
+      "email": "maisDevs@mail.com",
+      "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
+      "name": "+Devs",
+      "type": "company",
+      "avatar": "",
+      "description": "",
+      "contact": "",
+      "id": 12
     }
   ],
   "jobs": [
