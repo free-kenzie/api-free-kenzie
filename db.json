@@ -5,9 +5,9 @@
       "password": "$2a$10$uwduHi8MOIEuuuFmDki.pe9unfaC3w8FfFDh3tCWygMLmNG3j1y2K",
       "name": "testeEmpresa",
       "type": "company",
-      "avatar": "",
+      "avatar": "https://img.freepik.com/vetores-premium/modelo-de-arte-de-desenho-de-slogan-de-logotipo-lorem-ipsum_642953-73.jpg?w=740",
       "contact": "",
-      "description": "",
+      "description": "Nossa equipe é formada por desenvolvedores web experientes que se especializam na criação de sites amigáveis usando uma combinação de HTML, CSS, JavaScript, React e Node.js.",
       "id": 1
     },
     {
@@ -15,8 +15,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Gabriel",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://kaboompics.com/cache/5/d/0/2/7/5d027ecfdb6af5ab005d32126c15d215c5802a89.jpeg",
+      "description": "Olá, sou um desenvolvedor web com experiência profunda em design de UI/UX. Em poucas palavras, crio sites que ajudam as organizações a enfrentar os desafios de negócios e atender às suas necessidades.",
       "contact": "",
       "techs": [
         {
@@ -37,8 +37,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Antonio Barros Campos",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1531384441138-2736e62e0919?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Eu gerencio tudo, desde a navegação e o layout do site até a hospedagem na web e a arquitetura de segurança de uma empresa. Minha experiência está em aplicativos da web front-end.",
       "contact": "",
       "techs": [
         {
@@ -55,12 +55,12 @@
       "id": 3
     },
     {
-      "email": "carlos@mail.com",
+      "email": "carla@mail.com",
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
-      "name": "Carlos Alves Silva",
+      "name": "Carla Alves Silva",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Minha experiência está em aplicativos da web front-end, e as principais linguagens em minha pilha de tecnologia são JavaScript, React e, claro, HTML/CSS. Sou uma eterna aprendiz.",
       "contact": "",
       "techs": [
         {
@@ -70,19 +70,24 @@
         },
         {
           "id": 2,
-          "title": "Git",
-          "level": "Intermediário"
+          "title": "React",
+          "level": "Avançado"
+        },
+        {
+          "id": 3,
+          "title": "CSS",
+          "level": "Avançado"
         }
       ],
       "id": 4
     },
     {
-      "email": "paulo@mail.com",
+      "email": "paula@mail.com",
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
-      "name": "Paulo Barros Marques",
+      "name": "Paula Barros Marques",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+      "description": "Atualmente fazendo um curso sobre como criar chatbots de IA com Python!) e adoro ler, caminhar e encontrar novas cafeterias!",
       "contact": "",
       "techs": [
         {
@@ -92,19 +97,19 @@
         },
         {
           "id": 2,
-          "title": "Git",
-          "level": "Intermediário"
+          "title": "Python",
+          "level": "Avançado"
         }
       ],
       "id": 5
     },
     {
-      "email": "lucas@mail.com",
+      "email": "lucia@mail.com",
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
-      "name": "Lucas Reis Santos",
+      "name": "Lucia Reis Santos",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "description": "Olá, meu nome é Lucia e sou uma desenvolvedor web full-stack com mais de 10 anos de experiência. Sou apaixonada por desenvolvimento web e me mantenho atualizada com as últimas tendências.",
       "contact": "",
       "techs": [
         {
@@ -115,7 +120,12 @@
         {
           "id": 2,
           "title": "Git",
-          "level": "Intermediário"
+          "level": "Avançado"
+        },
+        {
+          "id": 2,
+          "title": "Python",
+          "level": "Avançado"
         }
       ],
       "id": 6
@@ -125,8 +135,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Joao Alves Martins",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Sou um desenvolvedor web full-stack com mais de 10 anos de experiência. Meu conjunto de habilidades inclui HTML/CSS, JavaScript, React, Node.js e MongoDB, e sou especializado na criação de interfaces de usuário.",
       "contact": "",
       "techs": [
         {
@@ -136,19 +146,24 @@
         },
         {
           "id": 2,
-          "title": "Git",
-          "level": "Intermediário"
+          "title": "React",
+          "level": "Avançado"
+        },
+        {
+          "id": 3,
+          "title": "CSS",
+          "level": "Avançado"
         }
       ],
       "id": 7
     },
     {
-      "email": "antonio@mail.com",
+      "email": "pedro@mail.com",
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Pedro Barros Silva",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Sou apaixonado por desenvolvimento web e me mantenho atualizado com as últimas tendências e tecnologias. Como desenvolvedor da Web, concentro-me na criação de sites que não sejam apenas esteticamente agradáveis, mas também otimizados para desempenho.",
       "contact": "",
       "techs": [
         {
@@ -169,8 +184,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Laboratorios Teixeira",
       "type": "company",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://img.freepik.com/vetores-gratis/projeto-colorido-logotipo-modelo_1222-29.jpg?w=740&t=st=1673456286~exp=1673456886~hmac=0998ca24c9a025da5e3dce959c01ec66ac2243c74b14bbb43d4eb97c6adfc231",
+      "description": "Laboratório especializado em serviços de laboratório clínico. Oferecemos uma variedade de serviços, incluindo serviços de diagnóstico e laboratório médico, usando uma combinação de tecnologia avançada e pessoal qualificado.",
       "contact": "",
       "id": 9
     },
@@ -179,8 +194,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Contabilidade Uniao",
       "type": "company",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://img.freepik.com/vetores-gratis/modelo-de-logotipo-de-contabilidade-de-gradiente_23-2148845176.jpg?w=740&t=st=1673456367~exp=1673456967~hmac=8ef9eaadf2b47d6511a19539d81d8dfeb3f277d2277f91b953ffbd2bbfd5864b",
+      "description": "Uma empresa de contabilidade líder com mais de 10 anos de experiência no setor. Nossa equipe é formada por profissionais experientes, especializados na prestação de serviços contábeis e financeiros.",
       "contact": "",
       "id": 10
     },
@@ -189,8 +204,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Contabilidade Lux",
       "type": "company",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://img.freepik.com/vetores-gratis/logotipo-de-contabilidade-de-gradiente-com-slogan_23-2148828803.jpg?w=740&t=st=1673456399~exp=1673456999~hmac=035a24d82e2a59ed28e019ef7489e631753d728a7c800ce3c3e914cebdb1df8e",
+      "description": "Nossos serviços incluem contabilidade, auditoria, preparação de impostos e planejamento financeiro. Orgulhamo-nos da nossa abordagem inovadora à contabilidade e do nosso compromisso em ajudar os nossos clientes a alcançar os seus objetivos financeiros.",
       "contact": "",
       "id": 11
     },
@@ -199,8 +214,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "+Devs",
       "type": "company",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://img.freepik.com/vetores-gratis/logotipo-do-codigo-gradiente-criativo_23-2148820572.jpg?w=740&t=st=1673456417~exp=1673457017~hmac=d1aca10d03cad39201ebf5b963cecc487143e9f10f4129a074fa8867b35c4a0b",
+      "description": "Priorizamos a satisfação do cliente e temos muito orgulho em fornecer aos nossos clientes as melhores soluções para suas necessidades de desenvolvimento web.",
       "contact": "",
       "id": 12
     },
@@ -209,7 +224,7 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "testeaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "type": "developer",
-      "avatar": "",
+      "avatar": "https://img.freepik.com/fotos-premium/robo-futurista-inteligencia-artificial-huminoide-ai-para-fabrica-industrial_31965-55307.jpg?w=740",
       "description": "aaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaa aaaaaaaaaaaaaaaa aaaaaa aaaaa aaaaaaaaa aaaaaaaaaaaaaaaaaaaa aaa aaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaa",
       "contact": "aaaaaaaaaaaaaaaaaaa",
       "techs": [
@@ -270,8 +285,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Gabriel",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://i.imgur.com/0WYFUnq.png",
+      "description": "Concentro-me na criação de sites que não sejam apenas esteticamente agradáveis, mas também otimizados para desempenho. No meu tempo livre, gosto de experimentar novos projetos de codificação e ler sobre os últimos desenvolvimentos tecnológicos.",
       "contact": "",
       "techs": [
         {
@@ -292,8 +307,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Caio",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Minha experiência reside na criação de sites amigáveis ao usuário usando uma combinação de HTML, CSS, JavaScript, React e Node.js.",
       "contact": "",
       "techs": [
         {
@@ -303,8 +318,13 @@
         },
         {
           "id": 2,
-          "title": "Git",
+          "title": "React",
           "level": "Intermediário"
+        },
+        {
+          "id": 3,
+          "title": "CSS",
+          "level": "Avançado"
         }
       ],
       "id": 2
@@ -314,8 +334,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Hericles",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Tenho um profundo conhecimento de segurança na Web e experiência no desenvolvimento de aplicativos da Web com foco em escalabilidade e desempenho.",
       "contact": "",
       "techs": [
         {
@@ -336,8 +356,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Joao",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Sou apaixonado por desenvolvimento web e me esforço para me manter atualizado com as últimas tendências e tecnologias. No meu tempo livre, gosto de aprender novas linguagens de codificação e desenvolver aplicativos criativos.",
       "contact": "",
       "techs": [
         {
@@ -358,8 +378,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Arthur",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "Tenho muita experiência no desenvolvimento de aplicativos fáceis de usar que resolvem problemas complexos de negócios. No meu tempo livre, gosto de mexer em novos projetos de codificação e aprender as mais recentes tecnologias de desenvolvimento web.",
       "contact": "",
       "techs": [
         {
@@ -380,8 +400,8 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Antonio",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "Eu me especializei na criação de sites que são esteticamente agradáveis e otimizados para desempenho. Sou apaixonado por desenvolvimento web e me mantenho atualizado com as últimas tendências e tecnologias.",
       "contact": "",
       "techs": [
         {
@@ -402,18 +422,28 @@
       "password": "$2a$10$GwpxDo70ZWpWLyLdq1UcT.E6rkBSOwZkD5PavX4Hpi057YkfArZJ.",
       "name": "Gerson",
       "type": "developer",
-      "avatar": "",
-      "description": "",
+      "avatar": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "description": "Olá, sou Gerson, um desenvolvedor web júnior com 0 a 3 anos de experiência no desenvolvimento de aplicativos web. Meu conjunto de habilidades inclui HTML/CSS, JavaScript e React.",
       "contact": "",
       "techs": [
         {
           "id": 1,
           "title": "JavaScript",
-          "level": "Avançado"
+          "level": "Intermediário"
         },
         {
           "id": 2,
           "title": "Git",
+          "level": "Intermediário"
+        },
+        {
+          "id": 3,
+          "title": "CSS",
+          "level": "Intermediário"
+        },
+        {
+          "id": 4,
+          "title": "React",
           "level": "Intermediário"
         }
       ],
